@@ -16,9 +16,9 @@ The functionality is quite simple but the fine grained control means the only li
 
 ## Onaip
 
-![Onaip picture showing push buttons]({{site.url}}/assets/onaipA.jpg)
-![Onaip picture showing linear position sensors]({{site.url}}/assets/onaipC.jpg)
-![Onaip picture showing wiring]({{site.url}}/assets/onaipB.jpg)
+![Onaip picture showing push buttons](/assets/onaipA.jpg)
+![Onaip picture showing linear position sensors](/assets/onaipC.jpg)
+![Onaip picture showing wiring](/assets/onaipB.jpg)
 
 My goal in this project was to experiment with different sensor types, musical instrument design, synthesis mappings and Arduino programming.
 
@@ -32,7 +32,7 @@ There are three play surfaces on the Onaip and whichever is facing upwards is ac
 
 ## RAMS: Radial audio menu system
 
-![RAMS diagram showing the user's head in the center of repeating sounds, with one louder than the other.]({{site.url}}/assets/rams_topdown.png)
+![RAMS diagram showing the user's head in the center of repeating sounds, with one louder than the other.](/assets/rams_topdown.png)
 
 This project examined the potential for an eyes-free mobile phone menu by using simple gestural input and spatialized audio. An eyes-free menu is useful for visually impaired users or for those whose vision is otherwise occupied. The goal was to discover the usability issues of such a menu. I created it with the cool kids Farid Rener, Jacob Beard, and Rajkuman Viswanathan and with help from [Institut Nazareth et Louis-Braille](http://www.inlb.qc.ca/).
 
@@ -64,7 +64,7 @@ Lastly, we had a 'hover-over' paradigm similar to mouse-over on GUIs which gave 
 
 ## Open Orchestra's performance analysis and visualization
 
-![Open Orchestra's four-screen interface]({{site.url}}/assets/oo_monolito.png)
+![Open Orchestra's four-screen interface](/assets/oo_monolito.png)
 
 The Open Orchestra is the musical equivalent of an aircraft simulator, providing student musicians a high-fidelity ensemble performance experience. As part of that project, this research developed methods of computer analysis and visualization for feedback and comparison. To identify measures of interest, the software compares the pitch and timing of a student's performance with that of the original musician playing the same part.
 
@@ -74,7 +74,7 @@ A study on the efficacy of visualizations as feedback was presented at the Visua
 
 ## Trumpet Tone Quality
 
-![A recording setup with two microphones and a music stand.]({{site.url}}/assets/trumpet.jpg)
+![A recording setup with two microphones and a music stand.](/assets/trumpet.jpg)
 
 Broadly, this research sought to answer the question, "Can computers give feedback on a musician's tone quality?" This work was first presented at [ISMIR 2011](https://trevorknight.squarespace.com/s/Knight-PotentialForAutomaticAssessmentOfTrumpetToneQuality.pdf) then formed the basis of [my master's thesis](http://digitool.library.mcgill.ca/R/?func=dbin-jump-full&object_id=110681).
 

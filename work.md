@@ -13,7 +13,7 @@ description: "Projects completed for a company"
 
 ## Microsoft
 
-![Microsoft Hololens]({{site.url}}/assets/hololens.jpg)
+![Microsoft Hololens](/assets/hololens.jpg)
 
 **HoloLens Research and Development team (2014&ndash;2015)**
 
@@ -28,7 +28,7 @@ description: "Projects completed for a company"
 ## Noteloop Systems Inc
 **2011&ndash;2012**
 
-![Noteloop software screenshot]({{site.url}}/assets/noteloop.png)
+![Noteloop software screenshot](/assets/noteloop.png)
 
 - Noteloop was a small startup based out of Ottawa, Canada. While I was there I worked on music information retrieval algorithms, code for manipulating and translating different types of music data, audio signal processing, implementing GUI elements and more. Everything was written in cross-platform C++ using the JUCE framework. 
 
