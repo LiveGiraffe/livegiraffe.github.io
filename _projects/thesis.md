@@ -5,8 +5,6 @@ image: /assets/projects/trumpet.jpg
 ordering_weight: 2
 ---
 
-## Masters'Thesis: Potential 
-
 ![A recording setup with two microphones and a music stand.](/assets/projects/trumpet.jpg)
 
 Broadly, this research sought to answer the question, "Can computers give feedback on a musician's tone quality?" This work was first presented at [ISMIR 2011](https://trevorknight.squarespace.com/s/Knight-PotentialForAutomaticAssessmentOfTrumpetToneQuality.pdf) then formed the basis of [my master's thesis](http://digitool.library.mcgill.ca/R/?func=dbin-jump-full&object_id=110681).

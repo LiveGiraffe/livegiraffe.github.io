@@ -1,11 +1,9 @@
 ---
-title: Open Orchestra
+title: Open Orchestra's performance analysis and visualization
 description: Ensemble practice simulator
 image: /assets/projects/oo_monolito.png
 ordering_weight: 5
 ---
-
-## Open Orchestra's performance analysis and visualization
 
 ![Open Orchestra's four-screen interface](/assets/projects/oo_monolito.png)
 

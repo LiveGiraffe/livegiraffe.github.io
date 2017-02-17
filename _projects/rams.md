@@ -1,11 +1,9 @@
 ---
-title: Radial audio menu system
+title: RAMS: Radial audio menu system
 description: An spatialized audio mobile phone menu
 image: /assets/projects/rams_topdown.png
 ordering_weight: 4
 ---
-
-## RAMS: Radial audio menu system
 
 ![RAMS diagram showing the user's head in the center of repeating sounds, with one louder than the other.](/assets/projects/rams_topdown.png)
 
