@@ -1,5 +1,5 @@
 ---
-title: RAMS: Radial audio menu system
+title: "RAMS: Radial audio menu system"
 description: An spatialized audio mobile phone menu
 image: /assets/projects/rams_topdown.png
 ordering_weight: 4
