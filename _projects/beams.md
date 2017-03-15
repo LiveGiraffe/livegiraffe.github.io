@@ -8,4 +8,9 @@ Inspired by Iannis Xenakis' UPIC, Draw Music is a software program that allows t
 
 The functionality is quite simple but the fine grained control means the only limit to the acoustic control is the resolution of the drawing canvas. With practice and an increased toolset, like any highly-skilled instrument, it should be able to produce very interesting and nuanced music.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4eXFWifRU34" frameborder="0" allowfullscreen></iframe>
+{% include youtube_video.html url="https://www.youtube.com/embed/4eXFWifRU34" width="560" height="315" %}
+
+
+
+{% include youtube_video.html url="https://www.youtube.com/embed/CFsanslKyIw" width="560" height="315" %}
+
