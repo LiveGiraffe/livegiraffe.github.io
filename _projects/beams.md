@@ -14,4 +14,4 @@ The functionality is quite simple but the fine grained control means the only li
 {% include youtube_video.html url="https://www.youtube.com/embed/CFsanslKyIw" width="560" height="315" %}
 
 
-{% include youtube_video.html url="https://www.youtube.com/v/bUtv-CzwOL4" width="560" height="315" %}
+{% include youtube_video.html url="https://www.youtube.com/embed/bUtv-CzwOL4" width="560" height="315" %}
